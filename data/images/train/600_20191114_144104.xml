@@ -1,0 +1,26 @@
+<annotation>
+	<folder>personRose</folder>
+	<filename>600_20191114_144104.jpg</filename>
+	<path>/home/chao/imageNemerique/projet/images/personRose/600_20191114_144104.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>personRose</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>107</xmin>
+			<ymin>174</ymin>
+			<xmax>236</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bonhomme_bleu</folder>
+	<filename>600_IMG_20191114_152652.jpg</filename>
+	<path>/home/chao/imageNemerique/projet/images/personBlue/bonhomme_bleu/600_IMG_20191114_152652.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>personBlue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>151</xmin>
+			<ymin>126</ymin>
+			<xmax>345</xmax>
+			<ymax>498</ymax>
+		</bndbox>
+	</object>
+</annotation>

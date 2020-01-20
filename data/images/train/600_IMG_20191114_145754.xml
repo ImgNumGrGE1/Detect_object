@@ -1,0 +1,38 @@
+<annotation>
+	<folder>photo zach</folder>
+	<filename>600_IMG_20191114_145754.jpg</filename>
+	<path>/home/chao/imageNemerique/projet/images/violet/photo zach/600_IMG_20191114_145754.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>449</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>violet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>101</ymin>
+			<xmax>263</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>violet</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>113</ymin>
+			<xmax>149</xmax>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+</annotation>

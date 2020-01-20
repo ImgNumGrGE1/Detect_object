@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tourRouge</folder>
+	<filename>600_20191114_144144.jpg</filename>
+	<path>/home/chao/imageNemerique/projet/images/tourRouge/600_20191114_144144.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tourRouge</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>139</ymin>
+			<xmax>335</xmax>
+			<ymax>176</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEG</folder>
+	<filename>600_IMG_9228.jpg</filename>
+	<path>/home/chao/imageNemerique/projet/images/Vert/JPEG/600_IMG_9228.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>escalierVert</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>136</ymin>
+			<xmax>383</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>annotées2</folder>
+	<filename>600_20191114_155523.jpg</filename>
+	<path>/home/chao/imageNemerique/projet/images/Orange/annotées2/600_20191114_155523.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>orange</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>260</xmin>
+			<ymin>115</ymin>
+			<xmax>369</xmax>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>
